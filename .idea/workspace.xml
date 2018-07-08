@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12cb62ef-988b-43ff-af52-6d4d9f7d386f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/spec/best-charge-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/spec/best-charge-spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/best-charge.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/best-charge.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/items.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/items.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/promotions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/promotions.js" afterDir="false" />
-    </list>
+    <list default="true" id="12cb62ef-988b-43ff-af52-6d4d9f7d386f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -91,7 +86,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="114" />
     <option name="y" value="-8" />
     <option name="width" value="1400" />
@@ -171,16 +166,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531034494515</updated>
-      <workItem from="1531034495659" duration="473000" />
+      <workItem from="1531034495659" duration="743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="473000" />
+    <option name="totallyTimeSpent" value="743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.24973656" />
       <window_info anchor="bottom" id="TODO" order="6" />

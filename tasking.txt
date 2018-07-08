@@ -1,0 +1,47 @@
+#1 格式化inputs 
+input:
+    inputs: [String]
+output:
+    simpleInput: [{
+        id: String,
+        count: Number
+    }]
+
+#2 初始化小票 
+input:
+    simpleInput
+output:
+    initReceipts: [{
+        id: String,
+        count: Number,
+		name:String,
+		price:Number
+    }]
+
+#3 半价优惠计算 
+input:
+    initReceipts
+output:
+    sum:Number
+    
+
+
+#4 无优惠计算
+input:
+    initReceipts
+output:
+    sum:Number
+
+#5 计算优惠
+
+input:
+    initReceipts
+output:
+    promotion:String
+
+#6 打印输出
+input:
+    initReceipts
+output:
+    result:String
+
